@@ -1,7 +1,7 @@
 # SIN Table
 A Java application that allows storage of names and SIN numbers in a hash table, displayed with Swing. 
 
-![Screenshot](main GUI.PNG)
+![Screenshot](mainGUI.PNG)
 
 ![Screenshot](TextArea.PNG)
 
