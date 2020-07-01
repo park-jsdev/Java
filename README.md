@@ -1,2 +1,2 @@
 # Java
-Java practice
+Java practice and assignments
