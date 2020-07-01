@@ -2,6 +2,7 @@
 A Java application that allows storage of names and SIN numbers in a hash table, displayed with Swing. 
 
 ![Screenshot](main GUI.PNG)
+
 ![Screenshot](TextArea.PNG)
 
 ## Features
